@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Suronjit Pal
+### Hi there 👋, my name is [Suronjit Pal](https://www.linkedin.com/in/suronjit-pal-17748322a/)
 #### A passionate web developer from Bangladesh
 ![A passionate web developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
