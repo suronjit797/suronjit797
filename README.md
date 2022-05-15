@@ -22,8 +22,10 @@
 <img width='45%' src='https://github-readme-stats.vercel.app/api?username=suronjit797&show_icons=true' /> <img width='45%' src='https://github-readme-streak-stats.herokuapp.com/?user=suronjit797' />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suronjit797)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=suronjit797' />
+</p>
+ 
 
 
 
