@@ -2,8 +2,6 @@
 <img src='https://i.ibb.co/B6ycyyk/programmer.gif' width='100%' height='100%'>
 
 # Hello, I'm [Suronjit Pal!](https://www.linkedin.com/in/suronjit-pal-17748322a/) 👋
-<hr style="height:1px;" />
-
 ![Profile views](https://gpvc.arturio.dev/suronjit797) 
 
 
